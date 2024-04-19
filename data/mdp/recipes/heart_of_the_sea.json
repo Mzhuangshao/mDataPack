@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LHL",
+        "LLL"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:heart_of_the_sea",
+        "count": 2
+    }
+}

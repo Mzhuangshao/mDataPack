@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "*@*",
+        "*E*",
+        "*@*"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:elytra"
+    },
+        "*": {
+            "item": "minecraft:popped_chorus_fruit"
+    },
+        "@": {
+            "item": "minecraft:ender_eye"
+    }
+},
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 2
+    }
+}

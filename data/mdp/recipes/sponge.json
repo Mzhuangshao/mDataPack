@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "scs",
+        "sss"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:sponge"
+        },
+        "c": {
+            "item": "minecraft:conduit"
+        }
+    },
+    "result": {
+        "item": "minecraft:sponge",
+        "count": 16
+    }
+}

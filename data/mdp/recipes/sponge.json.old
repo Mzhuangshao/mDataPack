@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"@s@",
+		"&&&"
+	],
+	"key": {
+		"@": {
+			"item": "minecraft:slime_ball"
+		},
+		"s":{
+			"item": "minecraft:sponge"
+		},
+		"#":{
+			"item": "minecraft:prismarine"
+		},
+		"&":{
+			"item": "minecraft:prismarine_bricks"
+		}
+	},
+	"result": {
+		"item": "minecraft:sponge",
+		"count": 4
+	}
+}
