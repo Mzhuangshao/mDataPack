@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LHL",
+    "LNL"
+  ],
+  "key": {
+    "L": "minecraft:lapis_block",
+    "H": "minecraft:heart_of_the_sea",
+    "N": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:heart_of_the_sea",
+    "count": 2
+  },
+  "show_notification": false
+}
