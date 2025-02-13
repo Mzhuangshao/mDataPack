@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "BBB"
+  ],
+  "key": {
+    "B": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "minecraft:minecart"
+  }
+}

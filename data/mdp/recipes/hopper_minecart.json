@@ -5,12 +5,12 @@
     "###"
   ],
   "key": {
-            "#": {
-                    "item": "minecraft:iron_ingot"
-            },
-			"*": {
-                    "item": "minecraft:hopper"
-            }
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "*": {
+      "item": "minecraft:hopper"
+    }
   },
   "result": {
     "item": "minecraft:hopper_minecart"

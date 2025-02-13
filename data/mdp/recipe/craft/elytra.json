@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " @ ",
+    " E ",
+    " @ "
+  ],
+  "key": {
+    "E": "minecraft:elytra",
+    "@": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  },
+  "show_notification": false
+}
