@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B",
+    "B "
+  ],
+  "key": {
+    "B": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "minecraft:shears"
+  }
+}

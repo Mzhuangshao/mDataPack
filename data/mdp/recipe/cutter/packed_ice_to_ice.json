@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:packed_ice",
+    "result": {
+      "id": "minecraft:ice",
+      "count": 9
+    }
+  }

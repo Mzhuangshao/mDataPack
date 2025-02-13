@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB",
+    "BB"
+  ],
+  "key": {
+    "B": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "minecraft:iron_trapdoor",
+    "count": 9
+  }
+}
