@@ -1,6 +1,21 @@
 {
-   "pack":{
-      "pack_format":20,
-      "description":"庄少的生存用数据包"
-   }
+  "pack": {
+    "pack_format": 20,
+    "description": "庄少的生存用数据包",
+    "supported_formats": [
+      5,
+      999
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1_21_2",
+        "formats": [
+          57,
+          999
+        ]
+      }
+    ]
+  }
 }

@@ -5,9 +5,13 @@
     "B "
   ],
   "key": {
-    "B": "minecraft:iron_block"
+    "B": {
+      "item": "minecraft:iron_block"
+    }
   },
   "result": {
-    "id": "minecraft:shears"
-  }
+    "id": "minecraft:shears",
+    "count": 1
+  },
+  "show_notification": false
 }

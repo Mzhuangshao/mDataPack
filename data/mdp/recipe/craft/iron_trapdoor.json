@@ -5,7 +5,9 @@
     "BB"
   ],
   "key": {
-    "B": "minecraft:iron_block"
+    "B": {
+      "item": "minecraft:iron_block"
+    }
   },
   "result": {
     "id": "minecraft:iron_trapdoor",

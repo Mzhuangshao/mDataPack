@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B",
+    "B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:shears",
+    "count": 9
+  },
+  "show_notification": false
+}

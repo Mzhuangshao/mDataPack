@@ -6,10 +6,12 @@
     "LLL"
   ],
   "key": {
-    "L": "#minecraft:logs"
+    "L": {
+      "tag": "minecraft:logs"
+    }
   },
   "result": {
-    "id": "chest",
+    "id": "minecraft:chest",
     "count": 4
   }
 }

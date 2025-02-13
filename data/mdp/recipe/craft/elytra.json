@@ -6,8 +6,12 @@
     " @ "
   ],
   "key": {
-    "E": "minecraft:elytra",
-    "@": "minecraft:nether_star"
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "@": {
+      "item": "minecraft:nether_star"
+    }
   },
   "result": {
     "id": "minecraft:elytra",

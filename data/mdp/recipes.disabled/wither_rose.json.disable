@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"rrr",
+		"csc",
+		"rrr"
+	],
+	"key": {
+		"c": {
+			"item": "minecraft:coal_block"
+		},
+		"r": {
+			"item": "minecraft:rose_bush"
+		},
+		"s": {
+			"item": "minecraft:wither_skeleton_skull"
+		}
+	},
+	"result": {
+		"item": "minecraft:wither_rose",
+		"count": 8
+	}
+}

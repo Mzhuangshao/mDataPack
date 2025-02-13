@@ -5,9 +5,13 @@
     "BBB"
   ],
   "key": {
-    "B": "minecraft:iron_block"
+    "B": {
+      "item": "minecraft:iron_block"
+    }
   },
   "result": {
-    "id": "minecraft:minecart"
-  }
+    "id": "minecraft:minecart",
+    "count": 1
+  },
+  "show_notification": false
 }

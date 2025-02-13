@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:small_flowers",
+    "minecraft:podzol",
+    "minecraft:tnt",
+    "minecraft:cactus",
+    "minecraft:pumpkin",
+    "minecraft:carved_pumpkin",
+    "minecraft:melon",
+    "minecraft:mycelium"
+  ]
+}

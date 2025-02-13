@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "mdp:craft/elytra"
+            }
+        }
+    },
+    "rewards": {
+        "function": "mdp:craft/elytra"
+    }
+}

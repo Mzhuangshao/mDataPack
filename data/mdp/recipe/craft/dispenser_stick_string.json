@@ -6,11 +6,18 @@
     " S$"
   ],
   "key": {
-    "S": "minecraft:stick",
-    "D": "minecraft:dropper",
-    "$": "minecraft:string"
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "D": {
+      "item": "minecraft:dropper"
+    },
+    "$": {
+      "item": "minecraft:string"
+    }
   },
   "result": {
-    "id": "minecraft:dispenser"
+    "id": "minecraft:dispenser",
+    "count": 1
   }
 }

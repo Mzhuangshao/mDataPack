@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "mdp:craft/minecart"
+            }
+        }
+    },
+    "rewards": {
+        "function": "mdp:craft/minecart"
+    }
+}
