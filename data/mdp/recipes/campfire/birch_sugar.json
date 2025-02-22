@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "minecraft:birch_logs"
+  },
+  "result": "minecraft:sugar",
+  "experience": 0.2,
+  "cookingtime": 600
+}
