@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:horn_coral_fan"
+      },
+      {
+        "item": "minecraft:horn_coral"
+      }
+    ]
+  },
+  "result": {
+    "id": "minecraft:horn_coral_block"
+  }
+}
