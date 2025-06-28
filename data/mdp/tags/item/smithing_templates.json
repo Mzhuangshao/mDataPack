@@ -1,6 +1,6 @@
 {
-    "values": [
-        "#mdp:trim_templates",
-        "#mdp:upgrade_templates"
-    ]
+  "values": [
+    "#mdp:trim_templates",
+    "#mdp:upgrade_templates"
+  ]
 }
