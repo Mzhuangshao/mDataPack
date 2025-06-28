@@ -1,13 +1,13 @@
 {
-    "criteria": {
-        "unlocked": {
-            "trigger": "minecraft:recipe_unlocked",
-            "conditions": {
-                "recipe": "mdp:craft/shears"
-            }
-        }
-    },
-    "rewards": {
-        "function": "mdp:craft/shears"
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mdp:craft/shears"
+      }
     }
+  },
+  "rewards": {
+    "function": "mdp:craft/shears"
+  }
 }
