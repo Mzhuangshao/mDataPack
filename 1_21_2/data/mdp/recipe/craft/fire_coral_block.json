@@ -1,14 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CC",
-    "CC"
-  ],
+  "pattern": ["CC", "CC"],
   "key": {
-    "C": [
-      "minecraft:fire_coral_fan",
-      "minecraft:fire_coral"
-    ]
+    "C": ["minecraft:fire_coral_fan", "minecraft:fire_coral"]
   },
   "result": {
     "id": "minecraft:fire_coral_block"

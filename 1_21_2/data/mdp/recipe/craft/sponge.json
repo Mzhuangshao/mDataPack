@@ -7,10 +7,7 @@
   ],
   "key": {
     "S": "minecraft:sponge",
-    "P": [
-      "minecraft:prismarine_crystals",
-      "minecraft:prismarine_shard"
-    ]
+    "P": ["minecraft:prismarine_crystals", "minecraft:prismarine_shard"]
   },
   "result": {
     "id": "minecraft:sponge",

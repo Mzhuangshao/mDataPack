@@ -1,14 +1,18 @@
 {
   "pack": {
     "pack_format": 20,
+    "min_format": 15,
+    "max_format": 999,
     "description": "庄少的生存用数据包",
-    "supported_formats": [5, 999]
+    "supported_formats": [5, 64]
   },
   "overlays": {
     "entries": [
       {
+        "min_format": 57,
+        "max_format": 999,
         "directory": "1_21_2",
-        "formats": [57, 999]
+        "formats": [57, 64]
       }
     ]
   }

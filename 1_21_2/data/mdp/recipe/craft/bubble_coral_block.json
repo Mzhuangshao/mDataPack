@@ -1,14 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CC",
-    "CC"
-  ],
+  "pattern": ["CC", "CC"],
   "key": {
-    "C": [
-      "minecraft:bubble_coral_fan",
-      "minecraft:bubble_coral"
-    ]
+    "C": ["minecraft:bubble_coral_fan", "minecraft:bubble_coral"]
   },
   "result": {
     "id": "minecraft:bubble_coral_block"

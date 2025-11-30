@@ -1,14 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CC",
-    "CC"
-  ],
+  "pattern": ["CC", "CC"],
   "key": {
-    "C": [
-      "minecraft:brain_coral_fan",
-      "minecraft:brain_coral"
-    ]
+    "C": ["minecraft:brain_coral_fan", "minecraft:brain_coral"]
   },
   "result": {
     "id": "minecraft:brain_coral_block"

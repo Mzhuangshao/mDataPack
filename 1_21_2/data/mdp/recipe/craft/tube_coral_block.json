@@ -1,14 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CC",
-    "CC"
-  ],
+  "pattern": ["CC", "CC"],
   "key": {
-    "C": [
-      "minecraft:tube_coral_fan",
-      "minecraft:tube_coral"
-    ]
+    "C": ["minecraft:tube_coral_fan", "minecraft:tube_coral"]
   },
   "result": {
     "id": "minecraft:tube_coral_block"

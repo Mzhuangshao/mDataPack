@@ -1,14 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CC",
-    "CC"
-  ],
+  "pattern": ["CC", "CC"],
   "key": {
-    "C": [
-      "minecraft:horn_coral_fan",
-      "minecraft:horn_coral"
-    ]
+    "C": ["minecraft:horn_coral_fan", "minecraft:horn_coral"]
   },
   "result": {
     "id": "minecraft:horn_coral_block"
